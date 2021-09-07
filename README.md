@@ -1,1 +1,2 @@
-# biostat776-intro-safia-jiwani
+# Introducing myself
+This website contains a short introduction of Safia Jiwani.
