@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## About me:
 
-I am a first year PhD student in International Health. I am from Burundi (East Africa) and have been living in Baltimore for the past six years. I received by Bachelor's degree in Human Nutrition from McGill University, and my master's degree in International Health at JHSPH. 
+I am a first year PhD student in International Health, Global Disease Epidemiology and Control. I am from Burundi (East Africa) and have been living in Baltimore for the past six years. I received by Bachelor's degree in Human Nutrition from McGill University, and my master's degree in International Health at JHSPH. 
 
 ## My research:
 
