@@ -1,0 +1,35 @@
+---
+title: "Safia Jiwani, MSPH"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About me:
+
+I am a first year PhD student in International Health. I am from Burundi (East Africa) and have been living in Baltimore for the past six years. I received by Bachelor's degree in Human Nutrition from McGill University, and my master's degree in International Health at JHSPH. 
+
+## My research:
+
+My research focuses on improving existing coverage measures of maternal and newborn health services in low- and middle-income countries. I am currently working on assessing facility readiness of antenatal care and generating readiness-adjusted antenatal care coverage estimates, which I think are more informative than crude coverage estimates. 
+
+## Why I'm taking this course:
+
+I use Stata for all my analyses- and I love it. I have been trying to learn R for a while now, but it's a very steep learning curve. I hope this course will make me more comfortable with writing R code, conducting analyses and making data visualizations. 
+
+## Some fun facts about myself:
+
+1. I love languages. I speak seven languages (I'm not fluent in all of them though!). 
+2. I have lived in 5 countries: Burundi, Tanzania, Canada, Peru, and the US. 
+3. I have never been camping! 
+4. I am terrified of taking this course given my very basic R coding skills. Yikes!
+5. I recently traveled to Turkey for a vacation. I visited the parliament building of the world's first federation, in Patara. I highly recommend visiting this site! Here's a cool photo of my visit: 
+![](image.JPG) 
+
+
+*More information on the ancient city of Patara, Turkey:*
+
+https://www.youtube.com/watch?v=2FMYkGAFdz8
+
